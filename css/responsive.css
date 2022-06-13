@@ -1,0 +1,25 @@
+
+img
+{
+    width: 100%;
+    height: auto;
+}
+body
+{
+background-color: rgb(198, 208, 226); 
+/* background-image:url(lib.jpg); */
+}
+h1 {
+    color: rgb(223, 228, 241);
+    background: #000; 
+} 
+
+p {
+    color: rgb(12, 9, 9);
+} 
+.topnav {
+max-width: 100%;
+}
+.navbar form:{
+    border-radius: 20px;
+}
